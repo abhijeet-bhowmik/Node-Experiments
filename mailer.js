@@ -14,7 +14,7 @@ var carrier = mailer.createTransport({
   service : 'gmail',
   auth : {
     user : 'abhi.bh.31296@gmail.com',
-    pass : 'AbHi2726#'
+    pass : <my password here>
   }
 });
 //mailing options
